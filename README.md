@@ -21,8 +21,8 @@ Estou começando a aprender:
 <a src="https://www.instagram.com/fernando.carhon/">
 <img alt="icone-instagram" src="https://img.magnific.com/vetores-premium/icone-do-logotipo-do-instagram_628407-1656.jpg?semt=ais_hybrid&w=740&q=80" width="26px"/>
 <a/>
-<a src="https://www.instagram.com/fernando.carhon/">
-<img alt="icone-github" src="https://www.iconpacks.net/icons/3/free-github-logo-icon-6532-thumb.png" width="26px"/>
+<a src="https://github.com/Fernando-Honorio">
+<img alt="icone-github" src="https://logos-world.net/wp-content/uploads/2020/11/GitHub-Symbol.png" width="46px"/>
 <a/>
 </p>
 
